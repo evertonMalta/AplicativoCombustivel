@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Combustivel</string>
+    <string name="alcool">Álcool</string>
+    <string name="gasolina">Gasolina</string>
+    <string name="calcular">Calcular</string>
+    <string name="compensa_colocar">Compensa colocar:</string>
+    <string name="texto1">*O calculo é feito apartida da divisão do álcool pela gasolina</string>
+    <string name="texto2">*Se o valor do resultado for abaixo de 0,7 compensa abastecer com álcool se for maior compensa abastecer com gasolina </string>
+    <string name="resultado">O resultado é:</string>
+    <string name="valor"> valor</string>
+</resources>
